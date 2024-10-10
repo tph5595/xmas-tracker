@@ -1,4 +1,5 @@
 (executable
  (public_name poc)
  (name main)
- (libraries poc))
+ (libraries poc batteries yojson core)
+ (preprocess (pps ppx_jane)))

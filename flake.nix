@@ -26,6 +26,7 @@
              core 
              base 
              batteries 
+             yojson
           ]);
         };
       });
