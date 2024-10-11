@@ -11,7 +11,7 @@ numpy = "^2.1.2"
 seaborn = "^0.13.2"
 pandas = "^2.2.3"
 scikit-learn = "^1.5.2"
-
+networkx = "^3.4"
 
 [build-system]
 requires = ["poetry-core"]
